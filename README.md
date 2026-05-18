@@ -127,3 +127,9 @@ Per caricare sessioni storiche di campionamento registrate dal vivo in classe tr
    ```bash
    python client_phyphox.py
    ```
+   
+---
+
+### Autori
+
+Evis Balla, Davide D'Angelo, Samuele Tocchella.
