@@ -1,0 +1,82 @@
+studente,sensore,valore,luogo,data_ora
+Davide,luce,0.0,Lab. Info 6,2026-05-16 18:24:45
+Davide,luce,1.0,Lab. Info 6,2026-05-16 18:24:45
+Davide,luce,2.0,Lab. Info 6,2026-05-16 18:24:46
+Davide,luce,1.0,Lab. Info 6,2026-05-16 18:24:46
+Davide,luce,2.0,Lab. Info 6,2026-05-16 18:24:47
+Davide,luce,3.0,Lab. Info 6,2026-05-16 18:24:47
+Davide,luce,2.0,Lab. Info 6,2026-05-16 18:24:48
+Davide,luce,1.0,Lab. Info 6,2026-05-16 18:24:48
+Davide,luce,0.0,Lab. Info 6,2026-05-16 18:24:49
+Davide,luce,1.0,Lab. Info 6,2026-05-16 18:24:49
+Davide,rumore,-98.44084745,Lab. Info 6,2026-05-16 18:26:53
+Davide,rumore,-86.96949066,Lab. Info 6,2026-05-16 18:26:54
+Davide,rumore,-85.09325966,Lab. Info 6,2026-05-16 18:26:54
+Davide,rumore,-80.14075376,Lab. Info 6,2026-05-16 18:26:55
+Davide,rumore,-76.4942378,Lab. Info 6,2026-05-16 18:26:55
+Davide,rumore,-67.7167443,Lab. Info 6,2026-05-16 18:26:56
+Davide,rumore,-72.03008508,Lab. Info 6,2026-05-16 18:26:56
+Davide,rumore,-69.99893904,Lab. Info 6,2026-05-16 18:26:57
+Davide,rumore,-80.51029157,Lab. Info 6,2026-05-16 18:26:57
+Davide,rumore,-83.89508396,Lab. Info 6,2026-05-16 18:26:58
+Samuele,luce,0.0,Aula 157,2026-05-16 18:29:41
+Samuele,luce,1.0,Aula 157,2026-05-16 18:29:42
+Samuele,luce,2.0,Aula 157,2026-05-16 18:29:42
+Samuele,luce,1.0,Aula 157,2026-05-16 18:29:43
+Samuele,luce,2.0,Aula 157,2026-05-16 18:29:43
+Samuele,luce,3.0,Aula 157,2026-05-16 18:29:44
+Samuele,luce,2.0,Aula 157,2026-05-16 18:29:44
+Samuele,luce,1.0,Aula 157,2026-05-16 18:29:45
+Samuele,luce,0.0,Aula 157,2026-05-16 18:29:45
+Samuele,luce,1.0,Aula 157,2026-05-16 18:29:46
+Evis,rumore,-98.44084745,Aula 157,2026-05-16 18:30:10
+Evis,rumore,-86.96949066,Aula 157,2026-05-16 18:30:10
+Evis,rumore,-85.09325966,Aula 157,2026-05-16 18:30:11
+Evis,rumore,-80.14075376,Aula 157,2026-05-16 18:30:11
+Evis,rumore,-76.4942378,Aula 157,2026-05-16 18:30:12
+Evis,rumore,-67.7167443,Aula 157,2026-05-16 18:30:12
+Evis,rumore,-72.03008508,Aula 157,2026-05-16 18:30:13
+Evis,rumore,-69.99893904,Aula 157,2026-05-16 18:30:13
+Evis,rumore,-80.51029157,Aula 157,2026-05-16 18:30:14
+Evis,rumore,-83.89508396,Aula 157,2026-05-16 18:30:14
+Evis,luce,0.0,Lab. Info 6,2026-05-18 17:20:01
+Evis,luce,1.0,Lab. Info 6,2026-05-18 17:20:01
+Evis,luce,2.0,Lab. Info 6,2026-05-18 17:20:02
+Evis,luce,1.0,Lab. Info 6,2026-05-18 17:20:02
+Evis,luce,2.0,Lab. Info 6,2026-05-18 17:20:03
+Simulatore,luce,5.65,Ambiente_Simulato,2026-05-18 17:27:08
+Simulatore,rumore,23.65,Ambiente_Simulato,2026-05-18 17:27:08
+Simulatore,luce,4.37,Ambiente_Simulato,2026-05-18 17:28:08
+Simulatore,rumore,40.55,Ambiente_Simulato,2026-05-18 17:28:08
+Simulatore,luce,8.92,Ambiente_Simulato,2026-05-18 17:29:08
+Simulatore,rumore,89.07,Ambiente_Simulato,2026-05-18 17:29:08
+Simulatore,luce,7.61,Ambiente_Simulato,2026-05-18 17:30:08
+Simulatore,rumore,84.15,Ambiente_Simulato,2026-05-18 17:30:08
+Simulatore,luce,3.34,Ambiente_Simulato,2026-05-18 17:33:16
+Simulatore,rumore,-33.97,Ambiente_Simulato,2026-05-18 17:33:16
+Simulatore,luce,2.53,Ambiente_Simulato,2026-05-18 17:41:00
+Simulatore,rumore,-24.79,Ambiente_Simulato,2026-05-18 17:41:00
+Simulatore,luce,1.43,Ambiente_Simulato,2026-05-18 17:42:00
+Simulatore,rumore,43.95,Ambiente_Simulato,2026-05-18 17:42:00
+Simulatore,luce,0.71,Ambiente_Simulato,2026-05-18 17:43:00
+Simulatore,rumore,-14.43,Ambiente_Simulato,2026-05-18 17:43:00
+Simulatore,luce,9.43,Ambiente_Simulato,2026-05-18 17:44:00
+Simulatore,rumore,49.92,Ambiente_Simulato,2026-05-18 17:44:00
+Simulatore,luce,1.74,Ambiente_Simulato,2026-05-18 17:45:00
+Simulatore,rumore,-52.87,Ambiente_Simulato,2026-05-18 17:45:00
+Simulatore,luce,4.99,Ambiente_Simulato,2026-05-18 17:46:00
+Simulatore,rumore,-28.85,Ambiente_Simulato,2026-05-18 17:46:00
+Simulatore,luce,8.05,Ambiente_Simulato,2026-05-18 17:47:00
+Simulatore,rumore,-26.39,Ambiente_Simulato,2026-05-18 17:47:00
+Simulatore,luce,6.86,Ambiente_Simulato,2026-05-18 17:48:00
+Simulatore,rumore,-38.74,Ambiente_Simulato,2026-05-18 17:48:00
+Simulatore,luce,8.32,Ambiente_Simulato,2026-05-18 17:49:00
+Simulatore,rumore,72.2,Ambiente_Simulato,2026-05-18 17:49:00
+Simulatore,luce,5.0,Ambiente_Simulato,2026-05-18 17:50:00
+Simulatore,rumore,62.36,Ambiente_Simulato,2026-05-18 17:50:00
+Simulatore,luce,9.76,Ambiente_Simulato,2026-05-18 17:51:00
+Simulatore,rumore,-2.7,Ambiente_Simulato,2026-05-18 17:51:00
+Simulatore,luce,8.11,Ambiente_Simulato,2026-05-18 17:52:00
+Simulatore,rumore,-29.56,Ambiente_Simulato,2026-05-18 17:52:00
+Simulatore,luce,9.14,Ambiente_Simulato,2026-05-18 17:53:00
+Simulatore,rumore,-90.86,Ambiente_Simulato,2026-05-18 17:53:00
