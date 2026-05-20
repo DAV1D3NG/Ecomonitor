@@ -26,7 +26,7 @@ EcoMonitor/
 ├── adattatore_formati.py  # Script che normalizza i dati di Phyphox in formato desiderato
 ├── client_phyphox.py      # Caricatore dei dati Phyphox normalizzati
 ├── dashboard.py           # Interfaccia grafica analitica tramite Streamlit
-│
+├── dati_phyphox.py        # Database contenente i dati letti da PhyPhox normalizzati
 ├── misure.csv             # Database centrale centralizzato (Formato unico)
 └── requirements.txt       # Elenco dipendenze software del progetto
 ```
